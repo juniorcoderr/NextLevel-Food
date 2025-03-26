@@ -19,7 +19,8 @@ NextLevel Food is a **Next.js-based** platform designed for food enthusiasts to 
 ✔️ **SQLite** is used as the database for storing recipe details, user data, and metadata.  
 ✔️ Fast and efficient data access with minimal setup requirements.  
 
-### **4️⃣ Next.js & SSR for Optimized Performance**  
+### **4️⃣ Next.js & SSR for Optimized Performance** 
+✔️ **App-Router** modern, scalable apps with advanced features. 
 ✔️ **Server-Side Rendering (SSR)** ensures that content is SEO-friendly and loads quickly.  
 ✔️ **Static Site Generation (SSG)** is used where applicable to enhance performance.  
 ✔️ Seamless **client-side navigation** for a smooth user experience.  
